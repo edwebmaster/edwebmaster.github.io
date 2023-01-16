@@ -1,0 +1,2019 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="BC" bc_subfolder="" domain="http://www.espositodesign.net,espositodesign.worldsecuresystems.com,espositodesign.net,espositodesign.businesscatalyst.com" resolutions="1x" timestamp="1594213843936">
+  <folder name="templates">
+    <file name="main template.html" crc="4287207964"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4017694093"/>
+    <file name="master_a-master.css" crc="473335894" ref="portfolio:shingle-style-(coastal):st.-augustine-beach-house:florida-beach-house:contact:shingle-style-(transitional):new-american-farmhouse:hickory-hill:framhouse-(transitional):index:about:shingle-style-(classic):low-country-cottage:seaside-cottage:longleaf-house"/>
+    <file name="nomq_preview_master_a-master.css" crc="4029889673" ref="portfolio:shingle-style-(coastal):st.-augustine-beach-house:florida-beach-house:contact:shingle-style-(transitional):new-american-farmhouse:hickory-hill:framhouse-(transitional):index:about:shingle-style-(classic):low-country-cottage:seaside-cottage:longleaf-house"/>
+    <file name="portfolio.css" crc="3905881422" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="18909631" ref="portfolio"/>
+    <file name="shingle-style-_coastal_.css" crc="4265460304" ref="shingle-style-(coastal)"/>
+    <file name="nomq_shingle-style-_coastal_.css" crc="3988843985" ref="shingle-style-(coastal)"/>
+    <file name="st_-augustine-beach-house.css" crc="184902746" ref="st.-augustine-beach-house"/>
+    <file name="nomq_st_-augustine-beach-house.css" crc="4227983367" ref="st.-augustine-beach-house"/>
+    <file name="florida-beach-house.css" crc="4157450596" ref="florida-beach-house"/>
+    <file name="nomq_florida-beach-house.css" crc="4097258215" ref="florida-beach-house"/>
+    <file name="contact.css" crc="4015557265" ref="contact"/>
+    <file name="nomq_contact.css" crc="4087351825" ref="contact"/>
+    <file name="shingle-style-_transitional_.css" crc="47463669" ref="shingle-style-(transitional)"/>
+    <file name="nomq_shingle-style-_transitional_.css" crc="4190438193" ref="shingle-style-(transitional)"/>
+    <file name="new-american-farmhouse.css" crc="114964136" ref="new-american-farmhouse"/>
+    <file name="nomq_new-american-farmhouse.css" crc="461108000" ref="new-american-farmhouse"/>
+    <file name="hickory-hill.css" crc="107034505" ref="hickory-hill"/>
+    <file name="nomq_hickory-hill.css" crc="405174513" ref="hickory-hill"/>
+    <file name="framhouse-_transitional_.css" crc="4165237079" ref="framhouse-(transitional)"/>
+    <file name="nomq_framhouse-_transitional_.css" crc="4232776841" ref="framhouse-(transitional)"/>
+    <file name="index.css" crc="3838524700" ref="index"/>
+    <file name="nomq_index.css" crc="503392267" ref="index"/>
+    <file name="about.css" crc="4220775005" ref="about"/>
+    <file name="nomq_about.css" crc="195206245" ref="about"/>
+    <file name="shingle-style-_classic_.css" crc="3817658375" ref="shingle-style-(classic)"/>
+    <file name="nomq_shingle-style-_classic_.css" crc="3922475299" ref="shingle-style-(classic)"/>
+    <file name="low-country-cottage.css" crc="4184938492" ref="low-country-cottage"/>
+    <file name="nomq_low-country-cottage.css" crc="4135502719" ref="low-country-cottage"/>
+    <file name="seaside-cottage.css" crc="3911898205" ref="seaside-cottage"/>
+    <file name="nomq_seaside-cottage.css" crc="3893764537" ref="seaside-cottage"/>
+    <file name="longleaf-house.css" crc="4275908243" ref="longleaf-house"/>
+    <file name="nomq_longleaf-house.css" crc="3856311251" ref="longleaf-house"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="museutils.js" crc="98503209" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="museconfig.js" crc="132890468" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="webpro.js" crc="4059564322" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="require.js" crc="7928878" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="portfolio:about"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3777171303" ref="index"/>
+    <file name="esposito-design---logo---primary.svg" crc="288985864" seo="true" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="esposito design - logo - primary_poster_.png" crc="3802074274" ref="index"/>
+    <file name="houzz icon.png" crc="502437898" seo="true" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="instagram-icon.svg" crc="502540349" seo="true" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="instagram icon_poster_.png" crc="3811393144" ref="index"/>
+    <file name="longleaf-house-icon.svg" crc="186788143" seo="true" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="florida-beach-house" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="new-american-farmhouse" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="low-country-cottage" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="longleaf-house" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="framhouse-(transitional)" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="seaside-cottage" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(classic)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="longleaf house icon_poster_.png" crc="3902305391" ref="index"/>
+    <file name="longleaf house - wireframe cropped - alternate.jpg" crc="3924641736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:about:contact:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="hickory hill.jpg" crc="3769010531" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beach house.jpg" crc="3865324600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="farmhouse (transitional).jpg" crc="3818416178" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:framhouse-(transitional):shingle-style-(transitional):florida-beach-house:st.-augustine-beach-house:new-american-farmhouse:shingle-style-(coastal):seaside-cottage:shingle-style-(classic):low-country-cottage:longleaf-house:hickory-hill"/>
+    <file name="aibd member logo color_with clear space.jpg" crc="268842471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ncbdc-promo-seal.jpg" crc="331926752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sprawling residence - ink n paint.png" crc="3973136852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="autodesk_revit_professional_nv.png" crc="510890047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sprawling residence - ink n paint595x254.png" crc="3767149261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sprawling residence - ink n paint320x137.png" crc="168133366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="front_2 - adjusted-u48257-fr.jpg" crc="430139075" ref="portfolio"/>
+    <file name="front_2 - adjusted-u48257-r-fr.png" crc="16573670" ref="portfolio"/>
+    <file name="hickory hill - front - 1-u50660-fr.jpg" crc="3799037786" ref="portfolio"/>
+    <file name="hickory hill - front - 1-u50660-r-fr.png" crc="4016845661" ref="portfolio"/>
+    <file name="hdr 3 - edit-u4126-fr.jpg" crc="4228083965" ref="portfolio"/>
+    <file name="hdr 3 - edit-u4126-r-fr.png" crc="3759753408" ref="portfolio"/>
+    <file name="the hampton - exterior - 2-u2585-fr.jpg" crc="3769837184" ref="portfolio"/>
+    <file name="the hampton - exterior - 2-u2585-r-fr.png" crc="4157873642" ref="portfolio"/>
+    <file name="florida beach house - exterior - 1 - crop.jpg" crc="4005535171" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 1 - crop-u4102-r-fr.png" crc="531951910" ref="portfolio"/>
+    <file name="st augustine beach house - exterior - 1-u4090-fr.jpg" crc="4269532390" ref="portfolio"/>
+    <file name="st augustine beach house - exterior - 1-u4090-r-fr.png" crc="3814765945" ref="portfolio"/>
+    <file name="american farmhouse - exterior - 1 - crop.jpg" crc="411534574" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 1 - crop-u4108-r-fr.png" crc="4118369692" ref="portfolio"/>
+    <file name="hdr 1-u4123-fr.jpg" crc="3816798514" ref="portfolio"/>
+    <file name="hdr 1-u4123-r-fr.png" crc="3826132735" ref="portfolio"/>
+    <file name="seaside cottage - front - 1-u4136-fr.jpg" crc="4151332465" ref="portfolio"/>
+    <file name="seaside cottage - front - 1-u4136-r-fr.png" crc="159391852" ref="portfolio"/>
+    <file name="dsc_8418 - edit - cropped.jpg" crc="3973742836" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="dsc_8418 - edit - cropped-u4130-r-fr.png" crc="228229999" ref="portfolio"/>
+    <file name="low country cottage - crop.jpg" crc="141191016" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="low country cottage - crop-u4142-r-fr.png" crc="260340599" ref="portfolio"/>
+    <file name="front_2 - adjusted-u48257-fr2.jpg" crc="343570833" ref="portfolio"/>
+    <file name="front_2 - adjusted-u48257-r-fr2.png" crc="3916651914" ref="portfolio"/>
+    <file name="hickory hill - front - 1-u50660-fr2.jpg" crc="169227056" ref="portfolio"/>
+    <file name="hickory hill - front - 1-u50660-r-fr2.png" crc="4107809400" ref="portfolio"/>
+    <file name="hdr 3 - edit-u4126-fr2.jpg" crc="3803265910" ref="portfolio"/>
+    <file name="hdr 3 - edit-u4126-r-fr2.png" crc="263179019" ref="portfolio"/>
+    <file name="the hampton - exterior - 2-u2585-fr2.jpg" crc="493858137" ref="portfolio"/>
+    <file name="the hampton - exterior - 2-u2585-r-fr2.png" crc="4244332057" ref="portfolio"/>
+    <file name="st augustine beach house - exterior - 1-u4090-fr2.jpg" crc="3851860796" ref="portfolio"/>
+    <file name="st augustine beach house - exterior - 1-u4090-r-fr2.png" crc="4018927586" ref="portfolio"/>
+    <file name="hdr 1-u4123-fr2.jpg" crc="479838944" ref="portfolio"/>
+    <file name="hdr 1-u4123-r-fr2.png" crc="188934394" ref="portfolio"/>
+    <file name="seaside cottage - front - 1-u4136-fr2.jpg" crc="4292619592" ref="portfolio"/>
+    <file name="seaside cottage - front - 1-u4136-r-fr2.png" crc="4069347220" ref="portfolio"/>
+    <file name="the hampton - exterior - 2-u2585-fr3.jpg" crc="281834863" ref="portfolio"/>
+    <file name="the hampton - exterior - 2-u2585-r-fr3.png" crc="4194554560" ref="portfolio"/>
+    <file name="hdr 3 - edit-u4126-fr3.jpg" crc="4100340304" ref="portfolio"/>
+    <file name="hdr 3 - edit-u4126-r-fr3.png" crc="191917339" ref="portfolio"/>
+    <file name="front_2 - adjusted-u48257-fr3.jpg" crc="4035994648" ref="portfolio"/>
+    <file name="front_2 - adjusted-u48257-r-fr3.png" crc="4277575437" ref="portfolio"/>
+    <file name="hickory hill - front - 1-u50660-fr3.jpg" crc="4004903308" ref="portfolio"/>
+    <file name="hickory hill - front - 1-u50660-r-fr3.png" crc="56958702" ref="portfolio"/>
+    <file name="st augustine beach house - exterior - 1-u4090-fr3.jpg" crc="4101645111" ref="portfolio"/>
+    <file name="st augustine beach house - exterior - 1-u4090-r-fr3.png" crc="3967565275" ref="portfolio"/>
+    <file name="hdr 1-u4123-fr3.jpg" crc="321238599" ref="portfolio"/>
+    <file name="hdr 1-u4123-r-fr3.png" crc="97278820" ref="portfolio"/>
+    <file name="seaside cottage - front - 1-u4136-fr3.jpg" crc="4133603990" ref="portfolio"/>
+    <file name="seaside cottage - front - 1-u4136-r-fr3.png" crc="4052387544" ref="portfolio"/>
+    <file name="bob.jpg" crc="3845904347" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="joel 2.jpg" crc="261687943" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="monica 2.jpg" crc="6163147" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bob-u2389-fr.jpg" crc="201335704" ref="about"/>
+    <file name="joel 2-u32583-fr.jpg" crc="3777348395" ref="about"/>
+    <file name="monica 2-u2431-fr.jpg" crc="321073685" ref="about"/>
+    <file name="bob-u2389-fr2.jpg" crc="3872858561" ref="about"/>
+    <file name="joel 2-u32583-fr2.jpg" crc="3977395257" ref="about"/>
+    <file name="monica 2-u2431-fr2.jpg" crc="4140339641" ref="about"/>
+    <file name="phone.svg" crc="3766087999" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="phone_poster_.png" crc="337616500" ref="contact"/>
+    <file name="envelope.svg" crc="4154240303" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="envelope_poster_.png" crc="4214531673" ref="contact"/>
+    <file name="hdr 1 - edit.jpg" crc="353894214" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="hdr 2 - edit.jpg" crc="3904418504" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="hdr 3 - edit.jpg" crc="91708303" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7256 - edit.jpg" crc="495393577" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7274 - edit.jpg" crc="4267388634" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7283 - edit.jpg" crc="3815186043" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7288 - edit.jpg" crc="355459323" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7303 - edit.jpg" crc="136470307" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7309 - edit.jpg" crc="3849940200" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7356 - edit.jpg" crc="3767844983" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7387 - edit.jpg" crc="351023583" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7428 - edit.jpg" crc="3856213738" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7432 - edit.jpg" crc="3789989832" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7439 - edit.jpg" crc="3998411162" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7444 - edit.jpg" crc="453266094" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7446 - edit.jpg" crc="455922687" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7452 - edit.jpg" crc="120277806" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7454 - edit.jpg" crc="3966459598" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7461 - edit.jpg" crc="3870112648" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7483 - edit.jpg" crc="4180848192" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7484 - edit.jpg" crc="106128000" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7485 - edit.jpg" crc="411098191" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7517 - edit.jpg" crc="4179716419" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7520 - edit.jpg" crc="4106740140" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="hdr 1 - edit450x298.jpg" crc="4036037781" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="hdr 2 - edit450x297.jpg" crc="453161600" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="hdr 3 - edit450x300.jpg" crc="354740990" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7256 - edit450x301.jpg" crc="346075388" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7274 - edit201x301.jpg" crc="48333525" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7283 - edit450x301.jpg" crc="4083380380" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7288 - edit450x301.jpg" crc="282255332" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7303 - edit450x301.jpg" crc="416867797" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7309 - edit450x301.jpg" crc="4157292283" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7356 - edit450x301.jpg" crc="3999158138" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7387 - edit450x301.jpg" crc="383175417" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7428 - edit201x301.jpg" crc="3946544024" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7432 - edit197x301.jpg" crc="125660672" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7439 - edit201x301.jpg" crc="222924145" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7444 - edit450x301.jpg" crc="3797300084" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7446 - edit450x301.jpg" crc="3997085117" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7452 - edit450x301.jpg" crc="3957173260" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7454 - edit450x301.jpg" crc="3956276664" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7461 - edit450x301.jpg" crc="79450260" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7483 - edit201x301.jpg" crc="173018022" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7484 - edit450x301.jpg" crc="57521507" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7485 - edit450x301.jpg" crc="90668197" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7517 - edit450x301.jpg" crc="204726329" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7520 - edit450x301.jpg" crc="427546045" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="hdr 1 - edit320x212.jpg" crc="340918691" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="hdr 2 - edit320x211.jpg" crc="375247190" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="hdr 3 - edit320x213.jpg" crc="349378713" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7256 - edit320x214.jpg" crc="359156145" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7274 - edit143x214.jpg" crc="390551160" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7283 - edit320x214.jpg" crc="3941278411" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7288 - edit320x214.jpg" crc="4030898194" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7303 - edit320x214.jpg" crc="245589103" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7309 - edit320x214.jpg" crc="4266036176" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7356 - edit320x214.jpg" crc="4051993814" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7387 - edit320x214.jpg" crc="4034814866" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7428 - edit143x214.jpg" crc="4195057435" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7432 - edit140x214.jpg" crc="77742048" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7439 - edit143x214.jpg" crc="337683454" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7444 - edit320x214.jpg" crc="218415352" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7446 - edit320x214.jpg" crc="135899407" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7452 - edit320x214.jpg" crc="30263669" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7454 - edit320x214.jpg" crc="3940994424" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7461 - edit320x214.jpg" crc="3878224992" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7483 - edit143x214.jpg" crc="3767928192" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7484 - edit320x214.jpg" crc="4132110459" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7485 - edit320x214.jpg" crc="120982762" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7517 - edit320x214.jpg" crc="3963394884" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="dsc_7520 - edit320x214.jpg" crc="4251766633" seo="true" ref="framhouse-(transitional)">
+      <caption webpage="framhouse-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 1.jpg" crc="439101964" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 2.jpg" crc="349233473" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 3.jpg" crc="4162866073" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 4.jpg" crc="453912728" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 5.jpg" crc="534172364" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 1.jpg" crc="82214462" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 2.jpg" crc="4012459268" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 3.jpg" crc="4268001711" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 4.jpg" crc="3998394332" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 5.jpg" crc="4121771458" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 6.jpg" crc="3849712190" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 1401x301.jpg" crc="525412103" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 2450x300.jpg" crc="3900520071" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 3450x301.jpg" crc="182887700" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 4297x301.jpg" crc="4063348147" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 5450x300.jpg" crc="3927344211" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 1201x301.jpg" crc="355842150" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 2208x301.jpg" crc="3877019934" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 3446x301.jpg" crc="456443890" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 4446x301.jpg" crc="439984" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 5450x300.jpg" crc="4043881127" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 6214x301.jpg" crc="3834225739" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 1286x214.jpg" crc="4171121075" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 2320x214.jpg" crc="4005334878" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 3320x214.jpg" crc="118410766" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 4211x214.jpg" crc="3865977918" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - exterior - 5320x214.jpg" crc="3999115564" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 1143x214.jpg" crc="3941236411" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 2148x214.jpg" crc="489719096" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 3317x214.jpg" crc="4293543520" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 4317x214.jpg" crc="119768648" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 5320x214.jpg" crc="89365918" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="the hampton - interior - 6152x214.jpg" crc="4139346458" seo="true" ref="shingle-style-(transitional)">
+      <caption webpage="shingle-style-(transitional)" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 1.jpg" crc="4251359114" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 2.jpg" crc="4274564811" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 3.jpg" crc="4166412365" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 4.jpg" crc="3932563322" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 5.jpg" crc="4101472679" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 6.jpg" crc="457864985" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 7.jpg" crc="3862005470" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 8.jpg" crc="321914902" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 9.jpg" crc="3899311410" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 10.jpg" crc="3873588707" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 11.jpg" crc="61613638" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 12.jpg" crc="4049784103" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 13.jpg" crc="149539208" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 14.jpg" crc="378595201" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 15.jpg" crc="4212541548" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 1450x300.jpg" crc="176793187" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 2450x301.jpg" crc="4150723279" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 3450x301.jpg" crc="3986531271" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 4201x301.jpg" crc="3944126599" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 5222x301.jpg" crc="238992273" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 6450x301.jpg" crc="498118667" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 7201x301.jpg" crc="4065845074" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 8450x301.jpg" crc="3856728969" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 9201x301.jpg" crc="3777185926" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 10450x301.jpg" crc="3799162604" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 11450x301.jpg" crc="4271481940" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 12450x301.jpg" crc="4045992312" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 13201x301.jpg" crc="3928985358" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 14450x301.jpg" crc="4198515643" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 15450x301.jpg" crc="4235200704" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 1320x214.jpg" crc="429517592" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 2320x214.jpg" crc="395272163" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 3320x214.jpg" crc="249552173" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 4143x214.jpg" crc="3786065400" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 5158x214.jpg" crc="3961224675" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 6320x214.jpg" crc="3959857366" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 7143x214.jpg" crc="3964341802" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 8320x214.jpg" crc="4222333682" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 9143x214.jpg" crc="3930876689" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 10320x214.jpg" crc="4082228264" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 11320x214.jpg" crc="4233344233" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 12320x214.jpg" crc="519106520" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 13143x214.jpg" crc="3918294376" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 14320x214.jpg" crc="3974268720" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="florida beach house - exterior - 15320x214.jpg" crc="4003991543" seo="true" ref="florida-beach-house">
+      <caption webpage="florida-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 1.jpg" crc="4195729168" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 2.jpg" crc="3885452768" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 3.jpg" crc="4117385587" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 4.jpg" crc="3877600490" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 7.jpg" crc="489231750" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 1.jpg" crc="4175930206" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 3.jpg" crc="4004554022" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 4.jpg" crc="4011834250" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 5.jpg" crc="3962035784" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 2.jpg" crc="4028750810" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 1.jpg" crc="382154761" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 2.jpg" crc="3952502082" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 3.jpg" crc="150218621" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 4.jpg" crc="523229100" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 6.jpg" crc="439540994" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 8.jpg" crc="3816845894" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 1450x300.jpg" crc="203119398" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 2450x300.jpg" crc="377800681" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 3450x301.jpg" crc="272598182" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 4201x301.jpg" crc="533176426" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 7450x301.jpg" crc="4081969048" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 1201x301.jpg" crc="3973158123" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 3201x301.jpg" crc="9168901" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 4450x300.jpg" crc="3883246323" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 5201x301.jpg" crc="3858538954" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 2201x301.jpg" crc="4071411007" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 1201x301.jpg" crc="4038747834" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 2450x301.jpg" crc="4253790536" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 3450x301.jpg" crc="270202430" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 4450x301.jpg" crc="194311917" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 6201x301.jpg" crc="4284651425" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 8450x301.jpg" crc="3870454300" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 1320x214.jpg" crc="402839264" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 2320x214.jpg" crc="97203241" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 3320x214.jpg" crc="57591574" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - exterior - 4143x214.jpg" crc="3849253108" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 7320x214.jpg" crc="87701428" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 1143x214.jpg" crc="468607879" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 3143x214.jpg" crc="288944623" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 4320x214.jpg" crc="3835858444" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 5143x214.jpg" crc="3940195175" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 2143x214.jpg" crc="363204584" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 1143x214.jpg" crc="4003461500" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 2320x214.jpg" crc="3879474277" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 3320x214.jpg" crc="4054857853" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - interior - 4320x214.jpg" crc="4167859395" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 6143x214.jpg" crc="347338447" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="st augustine beach house - detail - 8320x214.jpg" crc="4083550854" seo="true" ref="st.-augustine-beach-house">
+      <caption webpage="st.-augustine-beach-house" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 1.jpg" crc="3772658990" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 2.jpg" crc="3947790105" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 3.jpg" crc="485027865" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 4.jpg" crc="107093348" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 5.jpg" crc="3918339652" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 1450x301.jpg" crc="500145859" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 2450x300.jpg" crc="134116607" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 3450x295.jpg" crc="4063905609" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 4450x301.jpg" crc="4266065503" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 5413x301.jpg" crc="4255411620" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 1320x214.jpg" crc="4200744556" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 2320x214.jpg" crc="484826316" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 3320x210.jpg" crc="3989977654" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 4320x214.jpg" crc="162827081" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="american farmhouse - exterior - 5294x214.jpg" crc="274698064" seo="true" ref="new-american-farmhouse">
+      <caption webpage="new-american-farmhouse" alt=""/>
+    </file>
+    <file name="hdr 1.jpg" crc="199090011" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="hdr 2.jpg" crc="3955765145" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="hdr 3.jpg" crc="4293372468" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8039 - edit.jpg" crc="54876335" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="hdr 4.jpg" crc="404362221" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8052 - edit.jpg" crc="3990211983" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8095 - edit.jpg" crc="3839291820" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8040 - edit.jpg" crc="4030426216" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8062 - edit.jpg" crc="3946628882" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8060 - edit.jpg" crc="4096805342" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8067 - edit.jpg" crc="3922573051" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8068 - edit.jpg" crc="3881030979" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8072 - edit.jpg" crc="410550692" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8100 - edit.jpg" crc="230129438" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="hdr 1450x298.jpg" crc="200152996" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="hdr 2450x297.jpg" crc="4165498290" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="hdr 3450x299.jpg" crc="4250700218" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8039 - edit450x301.jpg" crc="62487633" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="hdr 4450x298.jpg" crc="484334218" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8052 - edit201x301.jpg" crc="23697309" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8095 - edit450x301.jpg" crc="3859358885" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8040 - edit450x301.jpg" crc="3984483132" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8062 - edit450x301.jpg" crc="4065381634" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8060 - edit201x301.jpg" crc="519899783" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8067 - edit450x301.jpg" crc="522479216" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8068 - edit450x301.jpg" crc="4136783918" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8072 - edit177x301.jpg" crc="4258228846" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8100 - edit450x301.jpg" crc="97479754" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="hdr 1320x212.jpg" crc="479838944" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="hdr 2320x211.jpg" crc="186002735" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="hdr 3320x213.jpg" crc="4210524516" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8039 - edit320x214.jpg" crc="420629452" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="hdr 4320x212.jpg" crc="172051494" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8052 - edit143x214.jpg" crc="301653775" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8095 - edit320x214.jpg" crc="80404010" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8040 - edit320x214.jpg" crc="4096487888" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8062 - edit320x214.jpg" crc="3991194420" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8060 - edit143x214.jpg" crc="4058329783" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8067 - edit320x214.jpg" crc="3779968525" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8068 - edit320x214.jpg" crc="4284600929" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8072 - edit126x214.jpg" crc="241032732" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="dsc_8100 - edit320x214.jpg" crc="212436754" seo="true" ref="shingle-style-(coastal)">
+      <caption webpage="shingle-style-(coastal)" alt=""/>
+    </file>
+    <file name="seaside cottage - front - 1.jpg" crc="3887425725" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - front - 2 - crop.jpg" crc="36856335" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - front - closeup - 1.jpg" crc="23997347" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - front - closeup - 2.jpg" crc="3923203907" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - 1.jpg" crc="3759059193" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - 2.jpg" crc="3897001036" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - 3.jpg" crc="32266904" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - closeup - 1.jpg" crc="506295969" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - front - 1201x301.jpg" crc="161481928" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - front - 2 - crop427x301.jpg" crc="212242477" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - front - closeup - 1255x301.jpg" crc="183801353" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - front - closeup - 2450x301.jpg" crc="4042224122" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - 1301x301.jpg" crc="3979539412" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - 2450x301.jpg" crc="3812506741" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - 3450x301.jpg" crc="4212217588" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - closeup - 1450x301.jpg" crc="443691251" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - front - 1143x214.jpg" crc="4102901300" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - front - 2 - crop304x214.jpg" crc="3857170209" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - front - closeup - 1182x214.jpg" crc="383274095" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - front - closeup - 2320x214.jpg" crc="115067428" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - 1214x214.jpg" crc="156218190" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - 2320x214.jpg" crc="3790690937" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - 3320x214.jpg" crc="3988887132" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="seaside cottage - rear - closeup - 1320x214.jpg" crc="18347385" seo="true" ref="seaside-cottage">
+      <caption webpage="seaside-cottage" alt=""/>
+    </file>
+    <file name="dsc_8418 - edit.jpg" crc="3975183497" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8423 - edit.jpg" crc="231222994" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8434 - edit.jpg" crc="3877357484" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8439 - edit.jpg" crc="4048692688" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8445 - edit.jpg" crc="3938025197" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8446 - edit.jpg" crc="146656987" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8471 - edit.jpg" crc="3960412806" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8503 - edit.jpg" crc="474420100" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8511 - edit.jpg" crc="435253091" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8529 - edit.jpg" crc="4030689266" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8563 - edit.jpg" crc="441349624" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8565 - edit.jpg" crc="500359522" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8573 - edit.jpg" crc="98367603" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8418 - edit450x301.jpg" crc="123370283" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8423 - edit450x301.jpg" crc="198421539" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8434 - edit450x301.jpg" crc="4049475586" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8439 - edit450x301.jpg" crc="1723231" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8445 - edit201x301.jpg" crc="3963678133" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8446 - edit450x301.jpg" crc="4140787854" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8471 - edit450x301.jpg" crc="149921740" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8503 - edit201x301.jpg" crc="343266058" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8511 - edit450x301.jpg" crc="225329213" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8529 - edit450x301.jpg" crc="235773877" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8563 - edit450x301.jpg" crc="452613908" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8565 - edit450x301.jpg" crc="3942965353" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8573 - edit450x301.jpg" crc="515393408" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8418 - edit320x214.jpg" crc="4270164028" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8423 - edit320x214.jpg" crc="252525805" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8434 - edit320x214.jpg" crc="75286518" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8439 - edit320x214.jpg" crc="4151090746" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8445 - edit143x214.jpg" crc="461444127" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8446 - edit320x214.jpg" crc="3893552743" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8471 - edit320x214.jpg" crc="4023498153" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8503 - edit143x214.jpg" crc="12675813" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8511 - edit320x214.jpg" crc="3769076941" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8529 - edit320x214.jpg" crc="338225932" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8563 - edit320x214.jpg" crc="4186773768" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8565 - edit320x214.jpg" crc="289230265" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="dsc_8573 - edit320x214.jpg" crc="53220543" seo="true" ref="shingle-style-(classic)">
+      <caption webpage="shingle-style-(classic)" alt=""/>
+    </file>
+    <file name="low country cottage.jpg" crc="506250257" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3460 - edit.jpg" crc="72769371" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3534 - edit.jpg" crc="3761172045" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 1.jpg" crc="399019319" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 2.jpg" crc="4026296838" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3463 - edit.jpg" crc="112460596" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3475 - edit.jpg" crc="404859479" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3483 - edit.jpg" crc="479179946" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 4.jpg" crc="4218851404" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 5.jpg" crc="3879140725" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3477 - edit.jpg" crc="3837739610" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3474 - edit.jpg" crc="3868068457" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3479 - edit.jpg" crc="452255587" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - pano - 1.jpg" crc="4278033785" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3434 - edit.jpg" crc="446349793" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3436 - edit.jpg" crc="171651446" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3410 - edit.jpg" crc="464303365" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3417 - edit.jpg" crc="3956369915" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="low country cottage432x301.jpg" crc="448212677" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3460 - edit201x301.jpg" crc="194049352" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3534 - edit450x301.jpg" crc="160953968" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 1199x301.jpg" crc="4147307753" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 2200x301.jpg" crc="237491004" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3463 - edit450x301.jpg" crc="248225288" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3475 - edit201x301.jpg" crc="155193036" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3483 - edit201x301.jpg" crc="4268149237" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 4448x301.jpg" crc="402913537" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 5450x297.jpg" crc="63428236" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3477 - edit201x301.jpg" crc="398315088" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3474 - edit450x301.jpg" crc="228799051" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3479 - edit450x301.jpg" crc="4177175682" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - pano - 1450x233.jpg" crc="4024267699" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3434 - edit201x301.jpg" crc="4006790321" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3436 - edit450x301.jpg" crc="35534799" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3410 - edit450x301.jpg" crc="4097386099" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3417 - edit450x301.jpg" crc="3908985663" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="low country cottage307x214.jpg" crc="490913695" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3460 - edit143x214.jpg" crc="4269434061" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3534 - edit320x214.jpg" crc="318742583" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 1142x214.jpg" crc="4126525322" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 2142x214.jpg" crc="206420096" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3463 - edit320x214.jpg" crc="4234518385" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3475 - edit143x214.jpg" crc="4033069438" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3483 - edit143x214.jpg" crc="4258119046" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 4319x214.jpg" crc="4284870943" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - hdr - 5320x212.jpg" crc="394701595" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3477 - edit143x214.jpg" crc="484183838" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3474 - edit320x214.jpg" crc="412649044" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3479 - edit320x214.jpg" crc="444169162" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="wb - lot 44 - pano - 1320x165.jpg" crc="435073238" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3434 - edit143x214.jpg" crc="113243585" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3436 - edit320x214.jpg" crc="3821176446" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3410 - edit320x214.jpg" crc="291100013" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="dsc_3417 - edit320x214.jpg" crc="100580935" seo="true" ref="low-country-cottage">
+      <caption webpage="low-country-cottage" alt=""/>
+    </file>
+    <file name="front_2 - adjusted.jpg" crc="3904216810" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="front_8 - adjusted.jpg" crc="4044649941" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_1 - adjusted.jpg" crc="202692533" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_2 - adjusted.jpg" crc="3940020104" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_5 - adjusted.jpg" crc="3906950547" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_8 - adjusted.jpg" crc="3880539623" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="longleaf house - interior - 1.jpg" crc="4141395583" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="longleaf house - interior - 5.jpg" crc="4280682708" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="front_2 - adjusted450x301.jpg" crc="4221953061" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="front_8 - adjusted450x301.jpg" crc="294512740" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_1 - adjusted450x301.jpg" crc="3851523331" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_2 - adjusted450x301.jpg" crc="4027810672" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_5 - adjusted450x301.jpg" crc="4227803736" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_8 - adjusted450x301.jpg" crc="325002509" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="longleaf house - interior - 1450x301.jpg" crc="3900858049" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="longleaf house - interior - 5450x301.jpg" crc="4145420174" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="front_2 - adjusted320x214.jpg" crc="461519380" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="front_8 - adjusted320x214.jpg" crc="35685220" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_1 - adjusted320x214.jpg" crc="4077899048" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_2 - adjusted320x214.jpg" crc="3884815698" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_5 - adjusted320x214.jpg" crc="369487242" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="rear_8 - adjusted320x214.jpg" crc="403557164" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="longleaf house - interior - 1320x214.jpg" crc="4090210970" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="longleaf house - interior - 5320x214.jpg" crc="198968741" seo="true" ref="longleaf-house">
+      <caption webpage="longleaf-house" alt=""/>
+    </file>
+    <file name="hickory hill - front - 1.jpg" crc="4268367561" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - front - 2.jpg" crc="4254753652" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - front - 3.jpg" crc="4107557063" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - front - 4.jpg" crc="4111396284" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 1.jpg" crc="153644214" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 2.jpg" crc="4067204987" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 3.jpg" crc="250956645" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 4.jpg" crc="3865474830" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 5.jpg" crc="177502222" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 6.jpg" crc="4272966088" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 77.jpg" crc="4123105065" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 1.jpg" crc="4030431839" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 2.jpg" crc="4188035917" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 3.jpg" crc="420759172" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 4.jpg" crc="4103246343" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 5.jpg" crc="3774688445" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 6.jpg" crc="4244381937" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 7.jpg" crc="4011055205" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 8.jpg" crc="269352959" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - front - 1449x301.jpg" crc="17235900" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - front - 2447x301.jpg" crc="131272437" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - front - 3450x301.jpg" crc="3760340394" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - front - 4450x301.jpg" crc="4132728516" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 1401x301.jpg" crc="382391185" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 2401x301.jpg" crc="3827227286" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 3450x301.jpg" crc="43962166" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 4450x301.jpg" crc="303435618" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 5450x301.jpg" crc="4020821411" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 6450x301.jpg" crc="3928944360" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 77450x301.jpg" crc="188490986" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 1427x301.jpg" crc="102898374" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 2442x301.jpg" crc="378411534" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 3442x301.jpg" crc="271225804" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 4445x301.jpg" crc="3946323966" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 5450x300.jpg" crc="3900081544" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 6446x301.jpg" crc="4044747118" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 7209x301.jpg" crc="3961596128" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 8201x301.jpg" crc="203889306" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - front - 1320x214.jpg" crc="4126689725" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - front - 2318x214.jpg" crc="3781127423" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - front - 3320x214.jpg" crc="293724937" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - front - 4320x214.jpg" crc="3845373508" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 1285x214.jpg" crc="4225434161" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 2285x214.jpg" crc="259653343" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 3320x214.jpg" crc="159605362" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 4320x214.jpg" crc="446071677" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 5320x214.jpg" crc="360493103" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 6320x214.jpg" crc="28322167" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - rear - 77320x214.jpg" crc="4048802043" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 1304x214.jpg" crc="463881596" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 2315x214.jpg" crc="95516523" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 3315x214.jpg" crc="19862523" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 4317x214.jpg" crc="4246764852" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 5320x214.jpg" crc="219844092" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 6317x214.jpg" crc="4292752389" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 7148x214.jpg" crc="3898127604" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="hickory hill - interior - 8143x214.jpg" crc="3873415859" seo="true" ref="hickory-hill">
+      <caption webpage="hickory-hill" alt=""/>
+    </file>
+    <file name="longleaf house - exterior - 2.jpg" crc="4237262352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="452413333" seo="true" mt="1594213824439" redirect="true"/>
+  <file name="portfolio.html" crc="3773238558" seo="true" mt="1594212233999" redirect="true"/>
+  <file name="about.html" crc="3838916166" seo="true" mt="1594212405697" redirect="true"/>
+  <file name="contact.html" crc="375252609" seo="true" mt="1594212405977" redirect="true"/>
+  <file name="framhouse-(transitional).html" crc="4037904367" seo="true" mt="1594212233999" redirect="true"/>
+  <file name="shingle-style-(transitional).html" crc="3800773159" seo="true" mt="1594212233999" redirect="true"/>
+  <file name="florida-beach-house.html" crc="4250790700" seo="true" mt="1594212233999" redirect="true"/>
+  <file name="st.-augustine-beach-house.html" crc="478432614" seo="true" mt="1594212233999" redirect="true"/>
+  <file name="new-american-farmhouse.html" crc="3909323880" seo="true" mt="1594212233999" redirect="true"/>
+  <file name="shingle-style-(coastal).html" crc="4174628547" seo="true" mt="1594212233999" redirect="true"/>
+  <file name="seaside-cottage.html" crc="156839140" seo="true" mt="1594212233999" redirect="true"/>
+  <file name="shingle-style-(classic).html" crc="321975072" seo="true" mt="1594212233999" redirect="true"/>
+  <file name="low-country-cottage.html" crc="452728847" seo="true" mt="1594212233999" redirect="true"/>
+  <file name="longleaf-house.html" crc="3874133262" seo="true" mt="1594212233999" redirect="true"/>
+  <file name="hickory-hill.html" crc="4187409660" seo="true" mt="1594212233999" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="h1-Headline-Slideshow---1280" uid="U36158"/>
+    <paragraphStyle className="h1-Headline-Slideshow---768" uid="U36159"/>
+    <paragraphStyle className="h1-Headline-Slideshow---480" uid="U36160"/>
+    <paragraphStyle className="h2-Subhead-Slideshow---1280" uid="U36161"/>
+    <paragraphStyle className="h2-Subhead-Slideshow---768" uid="U36162"/>
+    <paragraphStyle className="h2-Subhead-Slideshow---480" uid="U36163"/>
+    <paragraphStyle className="h3-Subhead---480" uid="U36164"/>
+    <paragraphStyle className="h3-Subhead---768" uid="U36199"/>
+    <paragraphStyle className="h3-Subhead---1280" uid="U36200"/>
+    <paragraphStyle className="Body-Copy-Centered---480" uid="U36201"/>
+    <paragraphStyle className="h4-Subhead---480" uid="U36202"/>
+    <paragraphStyle className="Body-Copy-Centered---768" uid="U36203"/>
+    <paragraphStyle className="Body-Copy-Centered---1280" uid="U36204"/>
+    <paragraphStyle className="h4-Subhead---1280" uid="U36205"/>
+    <paragraphStyle className="h4-Subhead---768" uid="U36206"/>
+    <paragraphStyle className="Body-Copy-Left---1280" uid="U36212"/>
+    <paragraphStyle className="Body-Copy-Left---768" uid="U36240"/>
+    <paragraphStyle className="Body-Copy-Left---480" uid="U36268"/>
+    <paragraphStyle className="h1-Headline---1280" uid="U36269"/>
+    <paragraphStyle className="h5-Subhead---1280" uid="U36270"/>
+    <paragraphStyle className="h1-Headline---768" uid="U36271"/>
+    <paragraphStyle className="h1-Headline---480" uid="U36272"/>
+    <paragraphStyle className="h5-Subhead---768" uid="U37996"/>
+    <paragraphStyle className="h5-Subhead---480" uid="U37997"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U25002" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U24803" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U9199" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U8226" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="1280" minwidth="769" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1280" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Portfolio" filename="portfolio.html" muse_href="page:U105" master="U72">
+        <breakpoint uid="U26214" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U26194" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U95" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="About" filename="about.html" muse_href="page:U129" master="U72">
+        <breakpoint uid="U36241" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U36213" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U119" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Contact" filename="contact.html" muse_href="page:U141" master="U72">
+        <breakpoint uid="U38178" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U38158" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U131" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Framhouse (Transitional)" filename="framhouse-(transitional).html" muse_href="page:U26567" master="U72">
+        <breakpoint uid="U33851" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U33730" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U26238" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Shingle Style (Transitional)" filename="shingle-style-(transitional).html" muse_href="page:U36406" master="U72">
+        <breakpoint uid="U36296" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U36354" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U36323" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Florida Beach House" filename="florida-beach-house.html" muse_href="page:U36520" master="U72">
+        <breakpoint uid="U36410" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U36468" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U36437" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="St. Augustine Beach House" filename="st.-augustine-beach-house.html" muse_href="page:U36634" master="U72">
+        <breakpoint uid="U36524" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U36582" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U36551" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="New American Farmhouse" filename="new-american-farmhouse.html" muse_href="page:U36748" master="U72">
+        <breakpoint uid="U36638" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U36696" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U36665" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Shingle Style (Coastal)" filename="shingle-style-(coastal).html" muse_href="page:U36862" master="U72">
+        <breakpoint uid="U36752" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U36810" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U36779" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Seaside Cottage" filename="seaside-cottage.html" muse_href="page:U36976" master="U72">
+        <breakpoint uid="U36866" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U36924" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U36893" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Shingle Style (Classic)" filename="shingle-style-(classic).html" muse_href="page:U37090" master="U72">
+        <breakpoint uid="U36980" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U37038" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U37007" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Low Country Cottage" filename="low-country-cottage.html" muse_href="page:U37204" master="U72">
+        <breakpoint uid="U37094" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U37152" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U37121" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Longleaf House" filename="longleaf-house.html" muse_href="page:U49168" master="U72">
+        <breakpoint uid="U48697" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U48978" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U48552" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Hickory Hill" filename="hickory-hill.html" muse_href="page:U49282" master="U72">
+        <breakpoint uid="U49228" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U49172" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U49201" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
